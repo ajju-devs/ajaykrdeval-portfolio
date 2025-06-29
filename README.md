@@ -87,7 +87,7 @@ Environment variables are managed using a .env file and handled securely.
 Ajay Kumar  
 B.Tech in Artificial Intelligence & Machine Learning, GGSIPU  
 📍 Delhi, India  
-🌐  
+🌐  https://ajaykrdeval.vercel.app/
 📫 [Contact me via the form on the site!]
 
 ---
