@@ -8,7 +8,7 @@ Explore my projects, education, skills, experience, and get in touch with me thr
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./src/assets/work_logo/insightecho.png) <!-- Replace with your homepage screenshot -->
+![Portfolio Screenshot](./src/assets/work_logo/ajay-portfolio-ss.png)
 
 ---
 
@@ -30,64 +30,64 @@ Explore my projects, education, skills, experience, and get in touch with me thr
 
 ## 📁 Folder Structure
 
-```bash
-AJAYKDEVAL-PORTFOLIO/
-├── node_modules/
-├── public/
-├── src/
-│   ├── assets/             # Images and visual assets
-│   ├── components/         # Reusable UI components
-│   │   ├── About/
-│   │   ├── Contact/
-│   │   ├── Education/
-│   │   ├── Experience/
-│   │   ├── Footer/
-│   │   ├── Navbar/
-│   │   ├── Skills/
-│   │   ├── Work/
-│   │   └── BlurBlob.jsx
-│   ├── App.jsx             # Root component
-│   ├── constants.js        # Constant data used across site
-│   ├── index.css           # Global styles
-│   └── main.jsx            # Entry point
-├── .env                   # Environment variables (EmailJS keys)
-├── .gitignore             # Git ignored files
-├── package.json           # Project dependencies and scripts
-├── tailwind.config.js     # Tailwind config
-├── vite.config.js         # Vite config
-└── README.md              
+    ```bash
+    AJAYKDEVAL-PORTFOLIO/
+    ├── node_modules/
+    ├── public/
+    ├── src/
+    │   ├── assets/             # Images and visual assets
+    │   ├── components/         # Reusable UI components
+    │   │   ├── About/
+    │   │   ├── Contact/
+    │   │   ├── Education/
+    │   │   ├── Experience/
+    │   │   ├── Footer/
+    │   │   ├── Navbar/
+    │   │   ├── Skills/
+    │   │   ├── Work/
+    │   │   └── BlurBlob.jsx
+    │   ├── App.jsx             # Root component
+    │   ├── constants.js        # Constant data used across site
+    │   ├── index.css           # Global styles
+    │   └── main.jsx            # Entry point
+    ├── .env                   # Environment variables (EmailJS keys)
+    ├── .gitignore             # Git ignored files
+    ├── package.json           # Project dependencies and scripts
+    ├── tailwind.config.js     # Tailwind config
+    ├── vite.config.js         # Vite config
+    └── README.md              
 
 ---
 
 ## 🔧 Available Scripts
 
-```bash
-npm install    # Install dependencies
-npm run dev    # Start dev server (http://localhost:5173)
+    ```bash
+    npm install    # Install dependencies
+    npm run dev    # Start dev server (http://localhost:5173)
 
 ---
 
 ## 📤 Deployment
 
-This project is deployed on Vercel for fast and scalable hosting.
+This project is deployed on Vercel for fast and scalable hosting.  
 You can easily deploy it by connecting your GitHub repo to Vercel.
 
 ---
 
 ## 📬 Contact
 
-The contact form uses EmailJS to send emails directly to my inbox.
-Environment variables are managed using a .env file and handled securely.
+The contact form uses EmailJS to send emails directly to my inbox.  
+Environment variables are managed using a .env file and handled securely.  
 💡 Don't forget to create your own EmailJS service ID, template ID, and public key before forking.
 
 ---
 
 ## 👨‍💻 Author
 
-Ajay Kumar
-B.Tech in Artificial Intelligence & Machine Learning, GGSIPU
-📍 Delhi, India
-🌐 
+Ajay Kumar  
+B.Tech in Artificial Intelligence & Machine Learning, GGSIPU  
+📍 Delhi, India  
+🌐  
 📫 [Contact me via the form on the site!]
 
 ---
