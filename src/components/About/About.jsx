@@ -41,9 +41,8 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            22 years old, AI-ML Graduate full-stack developer with over 2 years of experience in
-            building scalable web and AI applications. Skilled in both frontend and
-            backend development, I specialize in the MERN stack, machine learning, deep learning, RAG, GenAI and other
+            AI-ML Graduate & Full-Stack Developer building scalable web and AI applications. Skilled in both frontend and
+            backend development, I specialize in the MERN stack, Machine Learning, Deep Learning, RAG, GenAI and other
             modern technologies to create efficient solutions and seamless user experiences.
           </p>
           {/* Resume Button */}
