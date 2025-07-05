@@ -100,18 +100,8 @@ export const SkillsInfo = [
       { name: 'Scikit-learn', logo: scikitlearnLogo },
 
       { name: 'TensorFlow', logo: tensorflowLogo },
-      { name: 'Keras', logo: kerasLogo },
       { name: 'PyTorch', logo: pytorchLogo },
-      { name: 'NLTK', logo: nltkLogo },
-      { name: 'spaCy', logo: spacyLogo },
       { name: 'OpenCV', logo: opencvLogo },
-      { name: 'PIL/Pillow', logo: pillowLogo },
-
-      { name: 'YOLO', logo: yoloLogo },
-      { name: 'Streamlit', logo: streamlitLogo },
-      { name: 'Apache Spark', logo: apachesparkLogo },
-      { name: 'Hadoop', logo: hadoopLogo },
-      { name: 'Apache Kafka', logo: apachekafkaLogo },
       { name: 'LangChain', logo: langchainLogo },
       { name: 'FAISS', logo: faissLogo },
       { name: 'Pinecone', logo: pineconeLogo },
