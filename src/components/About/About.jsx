@@ -45,7 +45,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1Jd2Nnr9-SN6HzRbEtWPe04MxdeyqM4Ww/view?usp=sharing"
+            href="https://www.dropbox.com/scl/fi/ocrjv879qg366nttcqxrv/ajay-resume.pdf?rlkey=8ll1bmuco2cfg4k0sy2zhp55g&st=h1eh94na&dl=0"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
