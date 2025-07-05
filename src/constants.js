@@ -206,7 +206,7 @@ export const SkillsInfo = [
       description:
         "InsightEcho is a Retrieval-Augmented Generation (RAG) based AI-powered news assistant designed to help users make sense of complex articles with ease. This web application allows users to input URLs of news articles, which are then processed using advanced natural language understanding techniques. The backend extracts meaningful content, converts it into dense vector embeddings using SentenceTransformer, and stores it in FAISS for fast similarity search. Users can then engage in a chatbot-style conversation to ask questions about the article, powered by a Mistral-7B language model. The project features a clean and responsive frontend built with React.js and TailwindCSS, and a modular, high-performance backend using FastAPI — offering an intuitive, seamless, and intelligent reading experience.",
       image: insightechoLogo,
-      tags: ["Python", "JavaScript", "HTML", "CSS", "React.js", "TailwindCSS", " Vite", "FastAPI", "LangChain", "SentenceTransformer", "FAISS", "HuggingFace Endpoints", "Mistral-7B", "Git", "VSCode"],
+      tags: ["Python", "JavaScript", "HTML", "CSS", "React.js", "TailwindCSS", " Vite", "FastAPI", "LangChain", "UnstructuredURLLoader", "RecursiveCharacterTextSplitter", "InMemoryDocstore", "SentenceTransformer", "FAISS", "Logging", "RetrievalQAWithSourcesChain", "Pickle", "HuggingFace Endpoints", "Mistral-7B", "Git", "VSCode"],
       github: "https://github.com/",
       webapp: "https://github.com/",
     },

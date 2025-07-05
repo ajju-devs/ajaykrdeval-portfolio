@@ -41,13 +41,11 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            AI-ML Graduate & Full-Stack Developer building scalable web and AI applications. Skilled in both frontend and
-            backend development, I specialize in the MERN stack, Machine Learning, Deep Learning, RAG, GenAI and other
-            modern technologies to create efficient solutions and seamless user experiences.
+            AI-ML Graduate & Full-Stack Developer specializing in building scalable web and AI applications. Skilled in both frontend and backend development, with expertise in the MERN stack, Machine Learning, Deep Learning, RAG, GenAI, and other modern technologies to deliver efficient solutions and seamless user experiences.
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1HW9Iav7mtNSOOT5BmCTlv5DRkMKtVAbo/view?usp=sharing"
+            href="https://drive.google.com/file/d/1Jd2Nnr9-SN6HzRbEtWPe04MxdeyqM4Ww/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
